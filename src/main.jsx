@@ -194,8 +194,7 @@ function App() {
           <img src={LOGO_URL} alt="Vibra Soluções" />
           <div className="brandDivider" />
           <div>
-            <h1>Simulações de Consórcio</h1>
-            <p>Comparativo editável de propostas</p>
+            <h1>Simulações de Consórcio</h1>            
           </div>
         </div>
 
