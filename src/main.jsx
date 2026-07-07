@@ -228,7 +228,7 @@ function App() {
           <div className="utilitySeparator" />
           <div className="utilityItem utilityHelp">
             <Info size={17} />
-            <span>Digite os nomes e valores diretamente na planilha. Os campos começam vazios.</span>
+            <span>Digite os nomes e valores diretamente na planilha.</span>
           </div>
           <div className="saveStatus">{saveStatus}</div>
         </section>
